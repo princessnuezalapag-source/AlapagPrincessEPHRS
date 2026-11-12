@@ -11,6 +11,7 @@ while (running)
 {
     Console.WriteLine();
     Console.WriteLine("=== EPHRS - Main Branch ===");
+    Console.WriteLine("=== Employee Payroll System ===");
     Console.WriteLine("1. Add Employee");
     Console.WriteLine("2. View All Employees");
     Console.WriteLine("3. Search / Filter");
